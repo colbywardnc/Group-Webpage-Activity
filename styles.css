@@ -16,7 +16,7 @@ header {
 
 /* Styling for team logo image */
 .team-logo {
-    width: 150px; /* Adjust the size as needed */
+    width: 200px; /* Adjust the size as needed */
     margin-top: 10px;
 }
 
@@ -77,7 +77,7 @@ h2 {
 
 /* Button styling */
 button {
-    background: #007BFF;
+    background: #BC0000;
     color: white;
     border: none;
     padding: 10px 15px;
